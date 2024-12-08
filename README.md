@@ -19,7 +19,7 @@ else:
 sama dengan 
 ```python
 if (cond):
-	reurn x
+	return x
 return y
 ```
 karena return menghentikan fungsi begitu ia dijalankan, sehingga else sebenarnya tidak diperlukan
